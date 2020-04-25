@@ -19,6 +19,8 @@ This is a list of tools and configurations I used to rice my i3
     * [polybar-spotify-controls](https://github.com/dietervanhoof/polybar-spotify-controls) - module to control spotify app
 * [rofi](https://github.com/davatorium/rofi) - application launcher
     * [slate](https://github.com/davatorium/rofi-themes/blob/master/User%20Themes/slate.rasi) - customised version 
+* [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3-lock with a blur screenshot as background
+* [dynamic-wallpaper](https://github.com/megasyl/dynamic-wallpaper) - it's my fork of [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper)
 * [arc-theme](https://github.com/horst3180/arc-theme) - beautiful theme
 * [hack](https://github.com/source-foundry/Hack) - font
 * [font awesome](https://github.com/FortAwesome/Font-Awesome) - icon font
@@ -29,9 +31,6 @@ and a lot of tweaking
 ## Useful links
 * [polybar-themes](https://github.com/adi1090x/polybar-themes) - list of polybar themes
 * [rofi-themes](https://github.com/davatorium/rofi-themes) - list of rofi themes
-
-## Wallpaper
-* [minimalist forest](https://wallpaperaccess.com/minimalist-forest) - list of nice wallpapers
 
 ## Thanks
 
